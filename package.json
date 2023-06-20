@@ -1,5 +1,6 @@
 {
   "name": "01-fundamentos-nodejs-2023-06",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
